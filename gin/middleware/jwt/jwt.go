@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/liuxiaobopro/golib/ecode"
-	"gitee.com/liuxiaobopro/golib/response"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
+	"github.com/liuxiaobopro/go-lib/ecode"
+	"github.com/liuxiaobopro/go-lib/response"
 )
 
 var JwtKey = []byte("1dsasadsadasd")

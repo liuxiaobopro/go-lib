@@ -1,7 +1,7 @@
 package xorm
 
 import (
-	"gitee.com/liuxiaobopro/golib/xorm/models"
+	"github.com/liuxiaobopro/go-lib/xorm/models"
 )
 
 type Model struct {

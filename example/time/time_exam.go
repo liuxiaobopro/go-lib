@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	timel "gitee.com/liuxiaobopro/golib/utils/time"
+	timel "github.com/liuxiaobopro/go-lib/utils/time"
 )
 
 func main() {

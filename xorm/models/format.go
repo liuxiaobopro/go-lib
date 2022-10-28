@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	timel "gitee.com/liuxiaobopro/golib/utils/time"
+	timel "github.com/liuxiaobopro/go-lib/utils/time"
 )
 
 // 将time.Time转换成自定义的time.Time

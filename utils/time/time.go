@@ -3,8 +3,8 @@ package time
 import (
 	"time"
 
-	"gitee.com/liuxiaobopro/golib/define"
-	jsonl "gitee.com/liuxiaobopro/golib/json"
+	"github.com/liuxiaobopro/go-lib/define"
+	jsonl "github.com/liuxiaobopro/go-lib/json"
 )
 
 var TimeFormat = define.TimeFormat

@@ -7,9 +7,9 @@ import (
 	"os"
 	"path"
 
-	"gitee.com/liuxiaobopro/golib/console"
-	utilStr "gitee.com/liuxiaobopro/golib/utils/string"
-	utilTime "gitee.com/liuxiaobopro/golib/utils/time"
+	"github.com/liuxiaobopro/go-lib/console"
+	utilStr "github.com/liuxiaobopro/go-lib/utils/string"
+	utilTime "github.com/liuxiaobopro/go-lib/utils/time"
 )
 
 func CreateFolder(file multipart.File, fileHeader *multipart.FileHeader, filepath string) (string, string) {

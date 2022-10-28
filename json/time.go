@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/liuxiaobopro/golib/define"
+	"github.com/liuxiaobopro/go-lib/define"
 )
 
 type Time time.Time

@@ -1,4 +1,4 @@
-module gitee.com/liuxiaobopro/golib
+module github.com/liuxiaobopro/go-lib
 
 go 1.18
 

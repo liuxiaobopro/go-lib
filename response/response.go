@@ -1,7 +1,7 @@
 package response
 
 import (
-	"gitee.com/liuxiaobopro/golib/ecode"
+	"github.com/liuxiaobopro/go-lib/ecode"
 )
 
 type Result struct {

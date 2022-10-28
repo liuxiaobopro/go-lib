@@ -5,9 +5,9 @@ import (
 	"mime/multipart"
 	"net/http"
 
-	"gitee.com/liuxiaobopro/golib/ecode"
-	"gitee.com/liuxiaobopro/golib/response"
 	"github.com/gin-gonic/gin"
+	"github.com/liuxiaobopro/go-lib/ecode"
+	"github.com/liuxiaobopro/go-lib/response"
 )
 
 type Handler struct{}

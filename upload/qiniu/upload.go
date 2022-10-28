@@ -6,8 +6,8 @@ import (
 	"mime/multipart"
 	"os"
 
-	"gitee.com/liuxiaobopro/golib/console"
-	"gitee.com/liuxiaobopro/golib/upload"
+	"github.com/liuxiaobopro/go-lib/console"
+	"github.com/liuxiaobopro/go-lib/upload"
 	"github.com/qiniu/go-sdk/v7/auth/qbox"
 	"github.com/qiniu/go-sdk/v7/storage"
 )

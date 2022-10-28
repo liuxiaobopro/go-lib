@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/liuxiaobopro/golib/ecode"
-	"gitee.com/liuxiaobopro/golib/response"
+	"github.com/liuxiaobopro/go-lib/ecode"
+	"github.com/liuxiaobopro/go-lib/response"
 
 	"github.com/gin-gonic/gin"
 )
