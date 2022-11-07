@@ -1,5 +1,6 @@
 package define
 
+const DateFormat string = "2006-01-02"
 const TimeFormat string = "2006-01-02 15:04:05"
 const TimeFormatStr string = "20060102150405"
 

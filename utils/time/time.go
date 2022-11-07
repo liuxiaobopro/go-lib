@@ -7,6 +7,7 @@ import (
 	jsonl "github.com/liuxiaobopro/go-lib/json"
 )
 
+var DateFormat = define.DateFormat
 var TimeFormat = define.TimeFormat
 var TimeFormatStr = define.TimeFormatStr
 
